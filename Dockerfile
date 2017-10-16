@@ -1,4 +1,4 @@
-FROM sebasguts/SingularBinder:20171016
+FROM sebasguts/singularbinder:20171016
 
 MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
 
